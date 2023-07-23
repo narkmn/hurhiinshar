@@ -1,0 +1,114 @@
+[{
+  "name": "Маш",
+  "class": "man",
+  "textClass": "emphasis",
+    "children": [{
+      "name": "Цэрэв",
+      "class": "man",
+        "children": [{
+          "name": "Eric",
+          "class": "man",
+          "marriages": [{
+            "spouse": {
+              "name": "Eva",
+              "class": "woman"
+            }
+          }]
+        }, {
+          "name": "Jane",
+          "class": "woman"
+        }, {
+          "name": "Jasper",
+          "class": "man"
+        }, {
+          "name": "Emma",
+          "class": "woman"
+        }, {
+          "name": "Julia",
+          "class": "woman"
+        }, {
+          "name": "Jessica",
+          "class": "woman",
+          "children":[{
+            "name": "Нямхүү",
+            "class": "woman"
+          },
+          {
+            "name": "Jessica",
+            "class": "woman",
+            "children":[{
+              "name": "Нямхүү",
+              "class": "woman"
+            },
+            {
+              "name": "Jessica",
+              "class": "woman",
+              "children":[{
+                "name": "Нямхүү",
+                "class": "woman"
+              },
+              {
+                "name": "Jessica",
+                "class": "woman",
+                "children":[{
+                  "name": "Нямхүү",
+                  "class": "woman"
+                },
+                {
+                  "name": "Jessica",
+                  "class": "woman",
+                  "children":[{
+                    "name": "Нямхүү",
+                    "class": "woman"
+                  },
+                  {
+                    "name": "Jessica",
+                    "class": "woman",
+                    "children":[{
+                      "name": "Нямхүү",
+                      "class": "woman"
+                    },
+                    {
+                      "name": "Jessica",
+                      "class": "woman",
+                      "children":[{
+                        "name": "Нямхүү",
+                        "class": "woman"
+                      }
+                      ]
+                    },
+                    {
+                      "name": "Jessica",
+                      "class": "woman",
+                      "children":[{
+                        "name": "Нямхүү",
+                        "class": "woman"
+                      },
+                      {
+                        "name": "Jessica",
+                        "class": "woman",
+                        "children":[{
+                          "name": "Гэрэлгарав",
+                          "class": "woman"
+                        }
+                        ]
+                      }
+                      ]
+                    }
+                    ]
+                  }
+                  ]
+                }
+                ]
+              }
+              ]
+            }
+            ]
+          }
+          ]
+        }]
+    },{
+      "name": "Чойжинзав",
+      "class": "man"
+    }]
+}]
